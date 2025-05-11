@@ -1,0 +1,467 @@
+1
+0
+Chilaquiles verdes
+Desayuno
+30
+Dorar tortilla y echar salsa
+Braulio
+Jimenez
+Tortilla
+2
+y
+Salsa verde
+1
+y
+Crema
+1
+y
+Queso
+1
+y
+Cebolla
+1
+y
+Aguacate
+1
+y
+Pollo
+1
+y
+Frijoles
+1
+y
+Totopos
+1
+y
+Cilantro
+1
+n
+
+1
+1
+Mole poblano
+Comida
+45
+Cocinar pollo y agregar mole
+Ana
+Lopez
+Pollo
+1
+y
+Mole
+1
+y
+Chocolate
+1
+y
+Ajonjolí
+1
+y
+Cebolla
+1
+y
+Ajo
+1
+y
+Tomate
+1
+y
+Chile mulato
+1
+y
+Canela
+1
+y
+Caldo de pollo
+1
+n
+
+1
+2
+Tacos al pastor
+Cena
+25
+Marinar carne y asar
+Carlos
+Ramirez
+Carne de cerdo
+1
+y
+Piña
+1
+y
+Tortilla
+1
+y
+Cilantro
+1
+y
+Cebolla
+1
+y
+Aguacate
+1
+y
+Limón
+1
+y
+Salsa roja
+1
+y
+Orégano
+1
+y
+Chile guajillo
+1
+n
+
+1
+3
+Enchiladas suizas
+Comida
+35
+Freír tortillas y bañar con salsa
+María
+Fernandez
+Tortillas
+1
+y
+Pollo
+1
+y
+Crema
+1
+y
+Queso
+1
+y
+Salsa verde
+1
+y
+Cebolla
+1
+y
+Aguacate
+1
+y
+Cilantro
+1
+y
+Chiles verdes
+1
+y
+Sal
+1
+n
+
+1
+4
+Pozole rojo
+Cena
+60
+Cocer maíz y agregar carne
+Jorge
+Gonzalez
+Maíz pozolero
+1
+y
+Carne de cerdo
+1
+y
+Chile guajillo
+1
+y
+Cebolla
+1
+y
+Orégano
+1
+y
+Lechuga
+1
+y
+Rábano
+1
+y
+Limón
+1
+y
+Tostadas
+1
+y
+Sal
+1
+n
+
+1
+5
+Sopes
+Desayuno
+20
+Freír masa y agregar ingredientes
+Luis
+Martinez
+Masa de maíz
+1
+y
+Frijoles
+1
+y
+Queso
+1
+y
+Crema
+1
+y
+Cebolla
+1
+y
+Salsa roja
+1
+y
+Lechuga
+1
+y
+Aguacate
+1
+y
+Carne deshebrada
+1
+y
+Aceite
+1
+n
+
+1
+6
+Tamales verdes
+Desayuno
+90
+Preparar masa y envolver en hoja de maíz
+Patricia
+Hernandez
+Masa de maíz
+1
+y
+Salsa verde
+1
+y
+Pollo
+1
+y
+Hojas de maíz
+1
+y
+Manteca
+1
+y
+Caldo de pollo
+1
+y
+Cebolla
+1
+y
+Chile serrano
+1
+y
+Ajo
+1
+y
+Sal
+1
+n
+
+1
+7
+Gorditas de chicharrón
+Desayuno
+25
+Rellenar masa con chicharrón y freír
+Ricardo
+Torres
+Masa de maíz
+1
+y
+Chicharrón prensado
+1
+y
+Frijoles
+1
+y
+Queso
+1
+y
+Crema
+1
+y
+Lechuga
+1
+y
+Salsa roja
+1
+y
+Aguacate
+1
+y
+Cebolla
+1
+y
+Aceite
+1
+n
+
+1
+8
+Tlayudas
+Cena
+40
+Asar tortilla y agregar ingredientes
+Alejandra
+Rios
+Tortilla de maíz grande
+1
+y
+Frijoles
+1
+y
+Queso Oaxaca
+1
+y
+Carne de res
+1
+y
+Cebolla
+1
+y
+Aguacate
+1
+y
+Salsa
+1
+y
+Lechuga
+1
+y
+Tomate
+1
+y
+Sal
+1
+n
+
+1
+9
+Cochinita pibil
+Comida
+120
+Marinar carne y hornear
+Juan
+Vargas
+Carne de cerdo
+1
+y
+Achiote
+1
+y
+Naranja agria
+1
+y
+Cebolla morada
+1
+y
+Tortillas
+1
+y
+Sal
+1
+y
+Pimienta
+1
+y
+Orégano
+1
+y
+Hojas de plátano
+1
+y
+Limón
+1
+n
+
+1
+10
+Tortas ahogadas
+Comida
+30
+Preparar birote y sumergir en salsa
+Fernando
+Ruiz
+Birote salado
+1
+y
+Carnitas
+1
+y
+Salsa de jitomate
+1
+y
+Chile de árbol
+1
+y
+Cebolla
+1
+y
+Orégano
+1
+y
+Limón
+1
+y
+Sal
+1
+y
+Ajo
+1
+y
+Aceite
+1
+n
+
+1
+11
+Ceviche de camarón
+Cena
+45
+Marinar camarón y mezclar ingredientes
+Gabriela
+Mendoza
+Camarón
+1
+y
+Limón
+1
+y
+Cebolla morada
+1
+y
+Pepino
+1
+y
+Jitomate
+1
+y
+Aguacate
+1
+y
+Cilantro
+1
+y
+Sal
+1
+y
+Pimienta
+1
+y
+Tostadas
+1
+n

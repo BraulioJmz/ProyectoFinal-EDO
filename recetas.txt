@@ -1,0 +1,12 @@
+Chilaquiles verdes|Desayuno|30|Dorar tortilla y echar salsa|Braulio,Jimenez|10|Tortilla,2~Salsa verde,1~Crema,1~Queso,1~Cebolla,1~Aguacate,1~Pollo,1~Frijoles,1~Totopos,1~Cilantro,1
+Mole poblano|Comida|45|Cocinar pollo y agregar mole|Ana,Lopez|10|Pollo,1~Mole,1~Chocolate,1~Ajonjol¡,1~Cebolla,1~Ajo,1~Tomate,1~Chile mulato,1~Canela,1~Caldo de pollo,1
+Tacos al pastor|Cena|25|Marinar carne y asar|Carlos,Ramirez|10|Carne de cerdo,1~Pi¤a,1~Tortilla,1~Cilantro,1~Cebolla,1~Aguacate,1~Lim¢n,1~Salsa roja,1~Or‚gano,1~Chile guajillo,1
+Enchiladas suizas|Comida|35|Fre¡r tortillas y ba¤ar con salsa|Mar¡a,Fernandez|10|Tortillas,1~Pollo,1~Crema,1~Queso,1~Salsa verde,1~Cebolla,1~Aguacate,1~Cilantro,1~Chiles verdes,1~Sal,1
+Pozole rojo|Cena|60|Cocer ma¡z y agregar carne|Jorge,Gonzalez|10|Ma¡z pozolero,1~Carne de cerdo,1~Chile guajillo,1~Cebolla,1~Or‚gano,1~Lechuga,1~R bano,1~Lim¢n,1~Tostadas,1~Sal,1
+Sopes|Desayuno|20|Fre¡r masa y agregar ingredientes|Luis,Martinez|10|Masa de ma¡z,1~Frijoles,1~Queso,1~Crema,1~Cebolla,1~Salsa roja,1~Lechuga,1~Aguacate,1~Carne deshebrada,1~Aceite,1
+Tamales verdes|Desayuno|90|Preparar masa y envolver en hoja de ma¡z|Patricia,Hernandez|10|Masa de ma¡z,1~Salsa verde,1~Pollo,1~Hojas de ma¡z,1~Manteca,1~Caldo de pollo,1~Cebolla,1~Chile serrano,1~Ajo,1~Sal,1
+Gorditas de chicharr¢n|Desayuno|25|Rellenar masa con chicharr¢n y fre¡r|Ricardo,Torres|10|Masa de ma¡z,1~Chicharr¢n prensado,1~Frijoles,1~Queso,1~Crema,1~Lechuga,1~Salsa roja,1~Aguacate,1~Cebolla,1~Aceite,1
+Tlayudas|Cena|40|Asar tortilla y agregar ingredientes|Alejandra,Rios|10|Tortilla de ma¡z grande,1~Frijoles,1~Queso Oaxaca,1~Carne de res,1~Cebolla,1~Aguacate,1~Salsa,1~Lechuga,1~Tomate,1~Sal,1
+Cochinita pibil|Comida|120|Marinar carne y hornear|Juan,Vargas|10|Carne de cerdo,1~Achiote,1~Naranja agria,1~Cebolla morada,1~Tortillas,1~Sal,1~Pimienta,1~Or‚gano,1~Hojas de pl tano,1~Lim¢n,1
+Tortas ahogadas|Comida|30|Preparar birote y sumergir en salsa|Fernando,Ruiz|10|Birote salado,1~Carnitas,1~Salsa de jitomate,1~Chile de  rbol,1~Cebolla,1~Or‚gano,1~Lim¢n,1~Sal,1~Ajo,1~Aceite,1
+Ceviche de camar¢n|Cena|45|Marinar camar¢n y mezclar ingredientes|Gabriela,Mendoza|10|Camar¢n,1~Lim¢n,1~Cebolla morada,1~Pepino,1~Jitomate,1~Aguacate,1~Cilantro,1~Sal,1~Pimienta,1~Tostadas,1

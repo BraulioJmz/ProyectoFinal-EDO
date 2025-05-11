@@ -1,0 +1,8 @@
+Name: Chilaquiles verdes
+Category: Desayuno 
+Time cooking: 30 min
+Ingredients:
+Tortilla 1.00
+Instructions: Dorar tortilla 
+Author: Brau Jmz
+

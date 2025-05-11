@@ -1,0 +1,16 @@
+Name: Chilaquiles
+Category: Desayuno
+Time cooking: 30 min
+Ingredients:
+Tortilla 3.00
+Instructions: Dorar tortilla y echar salsa
+Author: Jose Juan
+
+Name: Pozole
+Category: Cena
+Time cooking: 120 min
+Ingredients:
+Maiz 1.00
+Instructions: Echar caldo y dorar
+Author: Brau Jmz
+
