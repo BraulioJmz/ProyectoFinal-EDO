@@ -1,43 +1,193 @@
 1
-0
 Chilaquiles verdes
 Desayuno
 30
 Dorar tortilla y echar salsa
 Braulio
 Jimenez
-Tortilla
-2
-y
-Salsa verde
-1
-y
-Crema
-1
-y
-Queso
+Aguacate
 1
 y
 Cebolla
 1
 y
-Aguacate
+Cilantro
 1
 y
-Pollo
+Crema
 1
 y
-Frijoles
+Frijoles refritos
 1
+y
+Pollo deshebrado
+1
+y
+Queso fresco
+1
+y
+Salsa verde
+1
+y
+Tortilla
+2
 y
 Totopos
-1
-y
-Cilantro
 1
 n
 
 1
+Huevos revueltos 
+Desayuno
+15
+Batir huevos y cocinar con jamón
+Juan
+Gonzalez
+Aguacate
+1
+y
+Cebolla
+1
+y
+Huevos
+2
+y
+Jamón
+1
+y
+Pimienta
+1
+y
+Queso cheddar
+1
+y
+Sal
+1
+y
+Tomate
+1
+y
+Tortilla de harina
+1
+y
+Aceite vegetal
+1
+n
+
+1
+Pan francés
+Desayuno
+20
+Remojar pan en mezcla de huevo y freír
+Maria
+Sanchez
+Azúcar
+1
+y
+Azúcar glass
+1
+y
+Canela
+1
+y
+Frutas frescas
+1
+y
+Huevos
+2
+y
+Jarabe de maple
+1
+y
+Leche
+1
+y
+Mantequilla
+1
+y
+Pan de caja
+2
+y
+Vainilla
+1
+n
+
+1
+Enchiladas suizas
+Comida
+40
+Rellenar tortillas y cubrir con salsa verde y queso
+Fernanda
+Cruz
+Aceite vegetal
+1
+y
+Aguacate
+1
+y
+Cebolla
+1
+y
+Cilantro
+1
+y
+Crema
+1
+y
+Pollo deshebrado
+1
+y
+Queso manchego
+1
+y
+Sal
+1
+y
+Salsa verde
+1
+y
+Tortillas
+1
+n
+
+1
+Ensalada de quinoa
+Comida
+20
+Mezclar ingredientes y aderezar
+Daniela
+Ortega
+Aceite de oliva
+1
+y
+Aguacate
+1
+y
+Espinacas
+1
+y
+Jugo de limón
+1
+y
+Pepino
+1
+y
+Pimienta
+1
+y
+Quinoa
+1
+y
+Sal
+1
+y
+Tomate cherry
+1
+y
+Zanahoria rallada
+1
+n
+
 1
 Mole poblano
 Comida
@@ -45,423 +195,191 @@ Comida
 Cocinar pollo y agregar mole
 Ana
 Lopez
-Pollo
-1
-y
-Mole
-1
-y
-Chocolate
+Ajo
 1
 y
 Ajonjolí
 1
 y
-Cebolla
-1
-y
-Ajo
-1
-y
-Tomate
-1
-y
-Chile mulato
+Caldo de pollo
 1
 y
 Canela
 1
 y
-Caldo de pollo
+Cebolla
+1
+y
+Chocolate amargo
+1
+y
+Mole poblano
+1
+y
+Pan bolillo
+1
+y
+Plátano macho
+1
+y
+Pollo
+1
+y
+Tomate
 1
 n
 
 1
-2
-Tacos al pastor
+Pizza casera
 Cena
-25
-Marinar carne y asar
+50
+Preparar masa, agregar ingredientes y hornear
 Carlos
-Ramirez
-Carne de cerdo
-1
-y
-Piña
-1
-y
-Tortilla
-1
-y
-Cilantro
+Perez
+Aceite de oliva
 1
 y
 Cebolla
 1
 y
-Aguacate
+Champiñones
 1
 y
-Limón
+Harina
 1
 y
-Salsa roja
+Masa para pizza
 1
 y
 Orégano
 1
 y
-Chile guajillo
+Pepperoni
+1
+y
+Pimiento
+1
+y
+Queso mozzarella
+1
+y
+Salsa de tomate
+1
+y
+Tomate
 1
 n
 
 1
-3
-Enchiladas suizas
-Comida
-35
-Freír tortillas y bañar con salsa
-María
-Fernandez
-Tortillas
-1
-y
-Pollo
-1
-y
-Crema
-1
-y
-Queso
-1
-y
-Salsa verde
-1
-y
-Cebolla
-1
-y
-Aguacate
-1
-y
-Cilantro
-1
-y
-Chiles verdes
-1
-y
-Sal
-1
-n
-
-1
-4
-Pozole rojo
+Sopa de lentejas
 Cena
-60
-Cocer maíz y agregar carne
-Jorge
-Gonzalez
-Maíz pozolero
-1
-y
-Carne de cerdo
-1
-y
-Chile guajillo
-1
-y
-Cebolla
-1
-y
-Orégano
-1
-y
-Lechuga
-1
-y
-Rábano
-1
-y
-Limón
-1
-y
-Tostadas
-1
-y
-Sal
-1
-n
-
-1
-5
-Sopes
-Desayuno
-20
-Freír masa y agregar ingredientes
-Luis
+35
+Cocinar lentejas y agregar verduras
+Sofia
 Martinez
-Masa de maíz
-1
-y
-Frijoles
-1
-y
-Queso
-1
-y
-Crema
-1
-y
-Cebolla
-1
-y
-Salsa roja
-1
-y
-Lechuga
-1
-y
-Aguacate
-1
-y
-Carne deshebrada
-1
-y
-Aceite
-1
-n
-
-1
-6
-Tamales verdes
-Desayuno
-90
-Preparar masa y envolver en hoja de maíz
-Patricia
-Hernandez
-Masa de maíz
-1
-y
-Salsa verde
-1
-y
-Pollo
-1
-y
-Hojas de maíz
-1
-y
-Manteca
-1
-y
-Caldo de pollo
-1
-y
-Cebolla
-1
-y
-Chile serrano
+Aceite de oliva
 1
 y
 Ajo
 1
 y
-Sal
-1
-n
-
-1
-7
-Gorditas de chicharrón
-Desayuno
-25
-Rellenar masa con chicharrón y freír
-Ricardo
-Torres
-Masa de maíz
-1
-y
-Chicharrón prensado
-1
-y
-Frijoles
-1
-y
-Queso
-1
-y
-Crema
-1
-y
-Lechuga
-1
-y
-Salsa roja
-1
-y
-Aguacate
+Caldo de pollo
 1
 y
 Cebolla
 1
 y
-Aceite
-1
-n
-
-1
-8
-Tlayudas
-Cena
-40
-Asar tortilla y agregar ingredientes
-Alejandra
-Rios
-Tortilla de maíz grande
+Lentejas
 1
 y
-Frijoles
+Laurel
 1
 y
-Queso Oaxaca
+Papas
 1
 y
-Carne de res
-1
-y
-Cebolla
-1
-y
-Aguacate
-1
-y
-Salsa
-1
-y
-Lechuga
+Pimienta
 1
 y
 Tomate
 1
 y
-Sal
+Zanahoria
 1
 n
 
 1
-9
-Cochinita pibil
-Comida
-120
-Marinar carne y hornear
-Juan
-Vargas
-Carne de cerdo
-1
-y
+Tacos al pastor
+Cena
+25
+Preparar carne al pastor y servir en tortillas
+Luis
+Garcia
 Achiote
-1
-y
-Naranja agria
-1
-y
-Cebolla morada
-1
-y
-Tortillas
-1
-y
-Sal
-1
-y
-Pimienta
-1
-y
-Orégano
-1
-y
-Hojas de plátano
-1
-y
-Limón
-1
-n
-
-1
-10
-Tortas ahogadas
-Comida
-30
-Preparar birote y sumergir en salsa
-Fernando
-Ruiz
-Birote salado
-1
-y
-Carnitas
-1
-y
-Salsa de jitomate
-1
-y
-Chile de árbol
-1
-y
-Cebolla
-1
-y
-Orégano
-1
-y
-Limón
-1
-y
-Sal
 1
 y
 Ajo
 1
 y
-Aceite
+Carne de cerdo
 1
-n
-
+y
+Cebolla
 1
-11
-Ceviche de camarón
-Cena
-45
-Marinar camarón y mezclar ingredientes
-Gabriela
-Mendoza
-Camarón
+y
+Chile guajillo
+1
+y
+Jalapeños
 1
 y
 Limón
 1
 y
-Cebolla morada
-1
-y
-Pepino
-1
-y
-Jitomate
-1
-y
-Aguacate
-1
-y
-Cilantro
-1
-y
-Sal
+Piña
 1
 y
 Pimienta
 1
 y
-Tostadas
+Tortillas de maíz
+1
+n
+
+1
+Tamales de rajas
+Cena
+60
+Preparar masa, rellenar y cocinar al vapor
+Maria
+Sanchez
+Aceite vegetal
+1
+y
+Ajo
+1
+y
+Caldo de pollo
+1
+y
+Cebolla
+1
+y
+Hojas de maíz
+1
+y
+Masa de maíz
+1
+y
+Polvo para hornear
+1
+y
+Queso
+1
+y
+Rajas de chile poblano
+1
+y
+Sal
 1
 n

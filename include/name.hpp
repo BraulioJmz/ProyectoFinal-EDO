@@ -32,9 +32,6 @@ public:
     Name& operator=(const Name&);
     friend ostream& operator<<(ostream&, const Name&);
     friend istream& operator>>(istream&, Name&);
-
-
 }; 
-
 
 #endif // __NAME_HPP__

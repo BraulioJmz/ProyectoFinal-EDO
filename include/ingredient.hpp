@@ -14,7 +14,7 @@ private:
 
 public:
     Ingredient();
-    Ingredient(string&, float&);
+    Ingredient(const string&, float);
     Ingredient(const Ingredient&);
 
     string getName() const;

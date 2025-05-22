@@ -91,6 +91,8 @@ public:
     
     SimpleLinkedList<T>& operator=(const SimpleLinkedList<T>&);
 
+    Position getPrev(const Position&) const;
+
 };
 
 template <class T>
@@ -100,7 +102,7 @@ template <class T>
 SimpleLinkedList<T>::Node::Node(const T& e) : data(e) { }
 
 template <class T>  
-T& SimpleLinkedList<T>::Node::getData() {  //Quizas cambiar tipo de dato que regresa
+T& SimpleLinkedList<T>::Node::getData() {  
     return this->data;
 }
 
@@ -136,22 +138,24 @@ bool SimpleLinkedList<T>::isValid(const Position& p) const {
 
 template <class T>
 void SimpleLinkedList<T>::copyAll(const SimpleLinkedList<T>& other) {
-    Position aux(other.anchor), lastInserted(this -> getLastPos()), newNode;
+    deleteAll(); 
 
-    if(aux != nullptr) {
-        if((newNode = new(nothrow) Node(aux -> getData())) == nullptr) {
-            throw Exception("Memory not available, addData");
+    Position aux(other.anchor), lastInserted(nullptr), newNode;
+
+    while (aux != nullptr) {
+        newNode = new(nothrow) Node(aux->getData());
+        if (newNode == nullptr) {
+            throw Exception("Memory not available, copyAll");
         }
 
-        if(lastInserted == nullptr) {
-            this -> anchor = newNode;
-        }
-        else {
-            lastInserted -> setNext(newNode);
+        if (lastInserted == nullptr) {
+            this->anchor = newNode;
+        } else {
+            lastInserted->setNext(newNode);
         }
 
         lastInserted = newNode;
-        aux = aux -> getNext();
+        aux = aux->getNext();
     }
 }
 
@@ -325,10 +329,23 @@ typename SimpleLinkedList<T>::Position SimpleLinkedList<T>::getPos(const int& in
 }
 
 template <class T>
-SimpleLinkedList<T>& SimpleLinkedList<T>::operator = (const SimpleLinkedList<T>& l) {
-    this -> deleteAll();
-    copyAll(l);
+SimpleLinkedList<T>& SimpleLinkedList<T>::operator = (const SimpleLinkedList<T>& other) {
+    if (this != &other) {
+        copyAll(other);
+    }
     return *this;
+}
+
+template <class T>
+typename SimpleLinkedList<T>::Position SimpleLinkedList<T>::getPrev(const Position& p) const {
+    if (p == this->anchor || p == nullptr) {
+        return nullptr;
+    }
+    Position aux = this->anchor;
+    while (aux != nullptr && aux->getNext() != p) {
+        aux = aux->getNext();
+    }
+    return aux;
 }
 
 #endif

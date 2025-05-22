@@ -114,9 +114,15 @@ void Interface::addRecipe(DoublyLinkedList<Recipe>& recipes) {
 
         Ingredient ingredient(ingredientName, ingredientQuantity);
 
+        auto pos = ingredients.getFirstPos(); 
+        while(pos != nullptr && pos->getData() < ingredient) {
+            pos = pos->getNext(); 
+        }
+        auto prev = ingredients.getPrev(pos);
+
         try {
-            ingredients.insertData(ingredients.getLastPos(), ingredient);
-        } catch (const DoublyLinkedList<Ingredient>::Exception& e) {
+            ingredients.insertData(prev, ingredient);
+        } catch (const SimpleLinkedList<Ingredient>::Exception& e) {
             cout << "Error adding ingredient: " << e.what() << endl;
         }
 
@@ -302,6 +308,8 @@ void Interface::modifyRecipe(DoublyLinkedList<Recipe>& recipes) {
 
 void Interface::modifyIngredient(Recipe& recipe) {
     int opc;
+
+    recipe.toString();
 
     cout << "\n1. Add ingredient\n";
     cout << "2. Delete ingredient\n";

@@ -1,0 +1,10 @@
+Chilaquiles verdes|Desayuno|30|Dorar tortilla y echar salsa|Braulio,Jimenez|10|Totopos,1~Tortilla,2~Salsa verde,1~Queso fresco,1~Pollo deshebrado,1~Frijoles refritos,1~Crema,1~Cilantro,1~Cebolla,1~Aguacate,1
+Huevos revueltos |Desayuno|15|Batir huevos y cocinar con jam¢n|Juan,Gonzalez|10|Aceite vegetal,1~Tortilla de harina,1~Tomate,1~Sal,1~Queso cheddar,1~Pimienta,1~Jam¢n,1~Huevos,2~Cebolla,1~Aguacate,1
+Pan franc‚s|Desayuno|20|Remojar pan en mezcla de huevo y fre¡r|Maria,Sanchez|10|Vainilla,1~Pan de caja,2~Mantequilla,1~Leche,1~Jarabe de maple,1~Huevos,2~Frutas frescas,1~Canela,1~Az£car glass,1~Az£car,1
+Enchiladas suizas|Comida|40|Rellenar tortillas y cubrir con salsa verde y queso|Fernanda,Cruz|10|Tortillas,1~Salsa verde,1~Sal,1~Queso manchego,1~Pollo deshebrado,1~Crema,1~Cilantro,1~Cebolla,1~Aguacate,1~Aceite vegetal,1
+Ensalada de quinoa|Comida|20|Mezclar ingredientes y aderezar|Daniela,Ortega|10|Zanahoria rallada,1~Tomate cherry,1~Sal,1~Quinoa,1~Pimienta,1~Pepino,1~Jugo de lim¢n,1~Espinacas,1~Aguacate,1~Aceite de oliva,1
+Mole poblano|Comida|45|Cocinar pollo y agregar mole|Ana,Lopez|11|Tomate,1~Pollo,1~Pl tano macho,1~Pan bolillo,1~Mole poblano,1~Chocolate amargo,1~Cebolla,1~Canela,1~Caldo de pollo,1~Ajonjol¡,1~Ajo,1
+Pizza casera|Cena|50|Preparar masa, agregar ingredientes y hornear|Carlos,Perez|0|
+Sopa de lentejas|Cena|35|Cocinar lentejas y agregar verduras|Sofia,Martinez|10|Zanahoria,1~Tomate,1~Pimienta,1~Papas,1~Laurel,1~Lentejas,1~Cebolla,1~Caldo de pollo,1~Ajo,1~Aceite de oliva,1
+Tacos al pastor|Cena|25|Preparar carne al pastor y servir en tortillas|Luis,Garcia|10|Tortillas de ma¡z,1~Pimienta,1~Pi¤a,1~Lim¢n,1~Jalape¤os,1~Chile guajillo,1~Cebolla,1~Carne de cerdo,1~Ajo,1~Achiote,1
+Tamales de rajas|Cena|60|Preparar masa, rellenar y cocinar al vapor|Maria,Sanchez|10|Sal,1~Rajas de chile poblano,1~Queso,1~Polvo para hornear,1~Masa de ma¡z,1~Hojas de ma¡z,1~Cebolla,1~Caldo de pollo,1~Ajo,1~Aceite vegetal,1

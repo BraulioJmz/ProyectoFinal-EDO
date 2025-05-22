@@ -2,7 +2,7 @@
 
 Ingredient::Ingredient(){}
 
-Ingredient::Ingredient(string& name, float& quantity){
+Ingredient::Ingredient(const string& name, float quantity){
     this -> name = name;
     this -> quantity = quantity;
 }
@@ -30,7 +30,7 @@ void Ingredient::setQuantity(const float& quantity){
 
 string Ingredient::toString() const{
     stringstream ss;
-    ss << name << " " << fixed << setprecision(2) << quantity;
+    ss << name << " | Quantity: " << fixed << setprecision(2) << quantity;
     return ss.str();
 }
 
